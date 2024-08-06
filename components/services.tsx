@@ -6,10 +6,10 @@ export const Services = () => {
   return (
     <section
       id="services"
-      className="min-h-screen items-center justify-center lg:mt-24 pt-20"
+      className="min-h-screen items-center justify-center lg:mt-24 pt-20 "
     >
       <Container>
-        <div className="lg:ml-16">
+        <div className=" md:ml-8 lg:ml-16 ">
           <Title title="Fitness Plans &" titlePrimary="Nutritions" />
         </div>
 
